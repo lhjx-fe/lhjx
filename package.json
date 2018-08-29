@@ -1,0 +1,22 @@
+{
+  "name": "lhjx",
+  "version": "1.0.0",
+  "description": "utils for lhjx",
+  "main": "index.js",
+  "scripts": {
+    "test": "lhjx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhjx-fe/lhjx.git"
+  },
+  "keywords": [
+    "lhjx"
+  ],
+  "author": "lhjx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lhjx-fe/lhjx/issues"
+  },
+  "homepage": "https://github.com/lhjx-fe/lhjx#readme"
+}
